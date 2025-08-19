@@ -11,10 +11,9 @@ Features:
 - Visualization of buy/sell signals
 
 Model & Methodology
-- Algorithm Type: [e.g., LSTM neural network for time series forecasting]
-- Target Variable: Probability of price increase in the next X days
-- Training Window: [5 years of historical data] 
-- Evaluation Metrics: Sharpe ratio, accuracy, win rate, Compund Annual Growth Rate
+- Algorithm Type: LSTM neural network for time series forecasting
+- Training Window: 5 years of historical data
+- Evaluation Metrics: Sharpe ratio, accuracy, win rate, Compounded Annual Growth Rate
 
 Example Output
 <img width="912" height="542" alt="Screenshot 2025-08-15 at 5 49 00 PM" src="https://github.com/user-attachments/assets/e4e5e8e6-9a8b-48cc-b394-154203b2325e" />
